@@ -19,7 +19,7 @@ let Obj4 = {
 
 let foo = 100;
 
-//console.log(Obj1, Obj2, Obj3, Obj4, foo);
+console.log(Obj1, Obj2, Obj3, Obj4, foo);
 console.log(`--------------------------------`);
 
 function assignObejcts() {
@@ -41,5 +41,4 @@ function assignObejcts() {
 }
 
 assignObejcts(Obj1, Obj2, Obj3, Obj4, foo);
-
 
